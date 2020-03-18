@@ -218,7 +218,7 @@
     return forever.list("", function(err, results) {
       return res.render('index.ejs', {
         process: results,
-        version: pkg.version
+        version: ""
       });
     });
   });
