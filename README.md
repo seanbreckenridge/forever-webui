@@ -1,4 +1,10 @@
-# [unmaintained] Forever Web UI 
+Forked changes:
+
+* Removed styling/text from pages I wasn't a fan of; versions from the webpages.
+* disable the +1 process button.
+* use forever process uid instead of filename as title for each process on the index page.
+
+# Forever Web UI 
 [![Build Status](https://secure.travis-ci.org/FGRibreau/forever-webui.png)](http://travis-ci.org/FGRibreau/forever-webui)
 [![Deps](https://david-dm.org/FGRibreau/forever-webui.png)](https://david-dm.org/FGRibreau/forever-webui)
 [![Version](http://badge.fury.io/js/forever-webui.png)](https://david-dm.org/FGRibreau/forever-webui)
