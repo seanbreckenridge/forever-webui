@@ -3,3 +3,4 @@ node_modules
 *.log
 TODO.txt
 users.json
+package-lock.json
