@@ -4,3 +4,5 @@ node_modules
 TODO.txt
 users.json
 package-lock.json
+public/dist/foreverui.min.css
+public/dist/foreverui.min.js
